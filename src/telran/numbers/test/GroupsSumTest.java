@@ -8,8 +8,8 @@ import java.util.stream.Stream;
 import org.junit.jupiter.api.Test;
 import telran.numbers.*;
 class GroupsSumTest {
-private static final int N_GROUPS = 1000;
-private static final int GROUP_LENGTH = 1000;
+private static final int N_GROUPS = 20000;
+private static final int GROUP_LENGTH = 20000;
 int[][] groups = {
 		{1,2},
 		{3,4},
